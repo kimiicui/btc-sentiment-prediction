@@ -28,7 +28,7 @@ slides/ # presentation slides
 
 
 ## Tools
-Python (pandas, numpy, statsmodels, matplotlib)
+Python (Pandas, NumPy, statsmodels, matplotlib)
 
 ## Author
 Kimberly Cui
