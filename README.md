@@ -1,4 +1,5 @@
 # Bitcoin Sentiment Prediction
+#### Measuring the Predictive Relationship Between Investor Sentiment and Next-Day Bitcoin Returns 
 
 Stats 140XP final project analyzing whether investor sentiment predicts next-day Bitcoin returns.
 
